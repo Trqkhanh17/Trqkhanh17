@@ -1,4 +1,4 @@
-# Hi, I'm Tran Quoc Khanh 👋
+# Hi, I'm Tran Quoc Khanh
 
 I'm a **Software Engineer** focused on building reliable, maintainable software for real-world business operations.
 
