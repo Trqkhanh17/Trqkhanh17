@@ -10,28 +10,6 @@ I enjoy understanding how businesses operate and turning complex workflows into 
 
 I work across both backend and frontend when needed, but my main interests are **backend architecture, database design, performance optimization, and enterprise software systems**.
 
-## 💼 Work Experience
-
-### Software Engineer — TTMI
-
-**Domain:** ERP · POS · CRM · HRM · F&B
-
-I develop and maintain business applications that support internal operations and day-to-day workflows.
-
-**Key responsibilities:**
-
-- Build and maintain backend services and REST APIs
-- Implement complex business logic and operational workflows
-- Develop ERP features for sales, purchasing, inventory, warehouse, and accounting-related processes
-- Work on POS, CRM, and HRM features
-- Design and maintain relational database models
-- Integrate internal and third-party services
-- Synchronize data across multiple systems
-- Investigate and resolve production issues
-- Optimize database queries and application performance
-- Translate business requirements into maintainable software solutions
-- Collaborate with engineers and other teams throughout development and deployment
-
 ## 🛠️ Tech Stack
 
 ### Backend
@@ -91,11 +69,8 @@ I develop and maintain business applications that support internal operations an
 - Reliable and maintainable enterprise software
 
 ## 📫 Contact
-
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/)
-- Email: `YOUR_EMAIL`
-
+- Email: `khanhtranquoc44@gmail.com`
+- Address: 'Ho Chi Minh City'
 ---
 
 ### 💡 Engineering Philosophy
