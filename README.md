@@ -27,8 +27,8 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Trqkhanh17&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Trqkhanh17&layout=compact&theme=radical&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Zyan0x&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Zyan0x&layout=compact&theme=radical&hide_border=true" height="165" alt="Top Languages" />
 </div>
 
 ---
