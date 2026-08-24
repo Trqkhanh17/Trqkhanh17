@@ -10,16 +10,6 @@
   Driven by curiosity about how businesses operate. I enjoy translating complex, messy workflows into clean, practical software with a strong focus on backend architecture and data design.
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:khanhtranquoc44@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-Ho%20Chi%20Minh%20City-10B981?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
-</p>
-
 </div>
 
 ---
