@@ -1,78 +1,48 @@
-# Hi, I'm Tran Quoc Khanh
+<div align="center">
 
-I'm a **Software Engineer** focused on building reliable, maintainable software for real-world business operations.
+# Hi, I'm Tran Quoc Khanh 👋
 
-My experience is mainly in **ERP, POS, CRM, and HRM systems**, with a stronger focus on **backend engineering, business logic, APIs, databases, and system integration**.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Software+Engineer;Backend+%26+Systems+Enthusiast;Turning+Complex+Logic+into+Clean+Code" alt="Typing SVG" />
+</a>
 
-## 👨‍💻 About Me
-
-I enjoy understanding how businesses operate and turning complex workflows into practical software solutions.
-
-I work across both backend and frontend when needed, but my main interests are **backend architecture, database design, performance optimization, and enterprise software systems**.
-
-## 🛠️ Tech Stack
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,nodejs,nestjs,express,typescript" />
+<p align="center">
+  Driven by curiosity about how businesses operate. I enjoy translating complex, messy workflows into clean, practical software with a strong focus on backend architecture and data design.
 </p>
 
-- **Python** · Django · Django REST Framework
-- **Node.js** · NestJS · Express.js
-- TypeScript · JavaScript
-- REST API development
-- Service architecture
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind" />
+<p align="center">
+  <a href="https://linkedin.com/in/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:khanhtranquoc44@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Ho%20Chi%20Minh%20City-10B981?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
 </p>
 
-- React
-- Next.js
-- TypeScript
-- Tailwind CSS
-- TanStack Query
-- Zustand
+</div>
 
-### Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" />
-</p>
-
-- PostgreSQL
-- MySQL
-- MongoDB
-- Database modeling
-- Query optimization
-- Data synchronization
-
-### DevOps & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,postman" />
-</p>
-
-- Docker
-- Linux
-- Git & GitHub
-- Postman
-- Vercel
-
-## 📈 Currently Focusing On
-
-- System architecture and software design
-- Scalable backend systems and API architecture
-- Reliable and maintainable enterprise software
-
-## 📫 Contact
-- Email: `khanhtranquoc44@gmail.com`
-- Address: 'Ho Chi Minh City'
 ---
 
-### 💡 Engineering Philosophy
+### 🛠️ Tech Stack
 
-> Build software that solves real problems, understand the business behind the code, and keep improving.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,nodejs,nestjs,express,ts,js,react,nextjs,tailwind,postgres,mysql,mongodb,docker,linux,git,postman,vercel&perline=9" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
+</div>
+
+---
+
+<p align="center">
+  <i>"Build software that solves real business problems, write maintainable code, and continuously optimize."</i>
+</p>
