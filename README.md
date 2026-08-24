@@ -30,9 +30,3 @@
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Trqkhanh17&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Trqkhanh17&layout=compact&theme=radical&hide_border=true" height="165" alt="Top Languages" />
 </div>
-
----
-
-<p align="center">
-  <i>"Build software that solves real business problems, write maintainable code, and continuously optimize."</i>
-</p>
