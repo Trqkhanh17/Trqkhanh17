@@ -37,7 +37,8 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true&area=true" width="95%" alt="Commit Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Trqkhanh17&theme=radical&hide_border=true" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Trqkhanh17&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
 </div>
 
 ---
